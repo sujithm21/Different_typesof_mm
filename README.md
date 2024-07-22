@@ -1,6 +1,4 @@
-![Normal](https://github.com/user-attachments/assets/69dd4a1d-5e35-4410-9a48-1191e667701d)# Optimizing Matrix Multiplication in GPT-2
-
-This repository contains a detailed analysis and optimization strategies for matrix multiplication in the GPT-2 model. Efficient matrix multiplication is crucial for the performance of large language models (LLMs), directly impacting the speed and scalability of the model.
+This repository contains a detailed analysis and optimization strategies for matrix multiplication. Efficient matrix multiplication is crucial for the performance of large language models (LLMs), directly impacting the speed and scalability of the model.
 
 ## Table of Contents
 
